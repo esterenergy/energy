@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  selectedValues: string[] = ['val1','val2'];
+  selectedValues: string[] = [];
 }
